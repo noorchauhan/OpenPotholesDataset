@@ -5,4 +5,4 @@ In this repository we will provide pothole images to train your Machine Learning
 This is an open-source collaborative data collection project for developing robust and better Machine Learning Models, currently the project is collecting data and the cleaned dataset will be available to download soon
 
 # LICENSE
-This project is completely Open-Source. Contributions are welcome from communities
+This project is Opensource
